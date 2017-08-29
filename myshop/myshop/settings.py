@@ -39,6 +39,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'shop',
     'cart',
+    'celery',
     'orders',
 )
 
@@ -111,3 +112,7 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
 
 # sessions settings
 CART_SESSION_ID = 'cart'
+
+
+# email settings
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'

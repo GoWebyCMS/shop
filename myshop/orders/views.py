@@ -3,6 +3,7 @@ from .models import OrderItem
 from .forms import OrderCreateForm
 from .tasks import order_created
 from cart.cart import Cart
+from .tasks import order_created
 
 
 def order_create(request):
