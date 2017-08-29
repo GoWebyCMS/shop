@@ -1,4 +1,4 @@
-#Shop - Custom Django Application 
+# Shop - Custom Django Application 
 
 ## This is a simple Django application demo for an online shop Demonstration.
 
