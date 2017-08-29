@@ -22,12 +22,12 @@
 TODO: Complete payment instruction
 
 ### Extensions/TODO'S
-TODO: Export ordets to a CSV file
-TODO: Generate PDF invoices dynamicaly
-TODO: Create a coupon system
-TODO: Build a recommendation engine
-TODO: Add localization
+##### TODO: Export ordets to a CSV file
+##### TODO: Generate PDF invoices dynamicaly
+##### TODO: Create a coupon system
+##### TODO: Build a recommendation engine
+##### TODO: Add localization
 
-TODO: Add a detailed documentation is in the "docs" directory.
-TODO: Turn this application reusable for both Django and Django CMS
+##### TODO: Add a detailed documentation is in the "docs" directory.
+##### TODO: Turn this application reusable for both Django and Django CMS
 
