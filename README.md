@@ -3,7 +3,7 @@
 ## This is a simple Django application demo for an online shop Demonstration.
 
 ### Supports
-#### Django 1.8.6 and Python 2.7
+#### Django 1.8.6 and Python 2.7 PosgrSQL
 #### Shoping Cart
 #### Customer Orders
 #### Asynchronous tasks (Celery - RabitMQ)
